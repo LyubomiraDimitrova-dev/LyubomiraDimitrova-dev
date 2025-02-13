@@ -15,8 +15,8 @@
 <!-- 📌 Skills Section -->
 <p align="center" style="color: #5d1a4a; font-family: 'Arial', sans-serif; font-size: 18px;">
 🔹 Passionate about crafting immersive worlds in <b>Unity & Unreal Engine</b><br>
-🔹 Skilled in <b>C#, Python, Java</b> and procedural level design<br>
-🔹 Always learning and exploring <b>game AI, optimization, and user experience</b>
+🔹 Skilled in <b>C#, Python, Java</b><br>
+🔹 Always learning and exploring <b>AI in Games, optimization, user experience, and fancy designs</b>
 </p>
 
 ---
@@ -29,7 +29,7 @@ An educational RPG that teaches **Python programming** through an engaging fanta
 A **mystical adventure game** where players navigate a cursed forest, solving puzzles and uncovering secrets.  
 
 <p align="center" style="color: #b33b7d; font-size: 18px; font-weight: bold;">
-  🚧 More projects in development! Stay tuned for upcoming releases. 🚀<br>
+  🚧 More projects in development! Stay tuned for upcoming updates. 🚀<br>
   👉 Check out my <a href="https://github.com/LyubomiraDimitrova-dev/Lyubomira-Portfolio" style="color:#ff66b2; font-weight:bold;">GitHub Portfolio</a> for more!
 </p>
 
