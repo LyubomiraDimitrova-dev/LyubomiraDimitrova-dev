@@ -22,7 +22,7 @@
 ---
 
 ## **🕹️ Featured Projects**
-🎮 **[PyAdventures](https://github.com/NoxianDemoness/Lyubomira-Portfolio/releases/latest)**  
+🎮 **[PyAdventures](https://github.com/LyubomiraDimitrova-dev/Lyubomira-Portfolio)**  
 An educational RPG that teaches **Python programming** through an engaging fantasy storyline.  
 
 🌲 **[The Curse of the Magic Forest](https://github.com/LyubomiraDimitrova-dev/Lyubomira-Portfolio/releases/latest)**  
