@@ -25,7 +25,7 @@
 🎮 **[PyAdventures](https://github.com/LyubomiraDimitrova-dev/Lyubomira-Portfolio)**  
 An educational RPG that teaches **Python programming** through an engaging fantasy storyline.  
 
-🌲 **[The Curse of the Magic Forest](https://github.com/LyubomiraDimitrova-dev/Lyubomira-Portfolio/releases/latest)**  
+🌲 **[The Curse of the Magic Forest](https://github.com/LyubomiraDimitrova-dev/Lyubomira-Portfolio)**  
 A **mystical adventure game** where players navigate a cursed forest, solving puzzles and uncovering secrets.  
 
 ---
