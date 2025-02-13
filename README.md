@@ -22,10 +22,10 @@
 ---
 
 ## **🕹️ Featured Projects**
-🎮 **[PyAdventures](https://github.com/LyubomiraDimitrova-dev/Lyubomira-Portfolio)**  
+🎮 **[PyAdventures](https://github.com/LyubomiraDimitrova-dev/Lyubomira-Portfolio/tree/main/PyAdventure)**  
 An educational RPG that teaches **Python programming** through an engaging fantasy storyline.  
 
-🌲 **[The Curse of the Magic Forest](https://github.com/LyubomiraDimitrova-dev/Lyubomira-Portfolio)**  
+🌲 **[The Curse of the Magic Forest](https://github.com/LyubomiraDimitrova-dev/Lyubomira-Portfolio/tree/main/The-Curse-of-the-Magic-Forest)**  
 A **mystical adventure game** where players navigate a cursed forest, solving puzzles and uncovering secrets.  
 
 <p align="center" style="color: #b33b7d; font-size: 18px; font-weight: bold;">
