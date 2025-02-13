@@ -6,7 +6,7 @@
 
 <!-- 🌸 Credit to the Creator (Extra Small Text) -->
 <p align="center" style="font-size: 8px; color: gray; margin-top: 5px;">
-  <i>Image by <a href="https://www.freevectors.net/profile/86793" style="color: gray; text-decoration: none;">Kiraramushi</a> from Free Vectors</i>
+  <i>Image by <a href="https://en.ac-illust.com/clip-art/23998198/header-image-of-cherry-blossom-trees_2" style="color: gray; text-decoration: none;">Kiraramushi</a> from Free Vectors</i>
 </p>
 
 <!-- 🌸 Welcome Text -->
