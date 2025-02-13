@@ -1,6 +1,6 @@
 <!-- 🌸 Cherry Blossom Mini Banner (Responsive) -->
 <p align="center">
- <img src="https://github.com/LyubomiraDimitrova-dev/just-cherry-stuff/blob/main/More_Cherries.jpg?raw=true&v=2" 
+ <img src="https://github.com/LyubomiraDimitrova-dev/Lyubomira-Assets/blob/main/More_Cherries.jpg?raw=true&v=2" 
      style="max-width: 100%; height: auto; display: block;">
 </p>
 
