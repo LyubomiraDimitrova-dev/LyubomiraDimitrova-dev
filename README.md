@@ -1,3 +1,8 @@
+<!-- 🌸 Credit to the Creator (Extra Small Text) -->
+<p align="center" style="font-size: 8px; color: gray; margin-top: 155px;">
+  <i>Image by <a href="https://www.freevectors.net/profile/86793" style="color: gray; text-decoration: none;">Kiraramushi</a> from Free Vectors</i>
+</p>
+
 <!-- 🌸 Cherry Blossom Animated Background -->
 <div style="position: relative; width: 100%; height: 300px;">
   <img src="https://github.com/LyubomiraDimitrova-dev/just-cherry-stuff/blob/main/More_Cherries.jpeg?raw=true" 
