@@ -1,16 +1,19 @@
+<!-- 🌸 Cherry Blossom Mini Banner (Responsive) -->
+<p align="center">
+  <img src="https://github.com/LyubomiraDimitrova-dev/just-cherry-stuff/blob/main/More_Cherries.jpg?raw=true" 
+       style="max-width: 100%; height: auto; display: block;">
+</p>
+
 <!-- 🌸 Credit to the Creator (Extra Small Text) -->
-<p align="center" style="font-size: 8px; color: gray; margin-top: 155px;">
+<p align="center" style="font-size: 8px; color: gray; margin-top: 5px;">
   <i>Image by <a href="https://www.freevectors.net/profile/86793" style="color: gray; text-decoration: none;">Kiraramushi</a> from Free Vectors</i>
 </p>
 
-<!-- 🌸 Cherry Blossom Animated Background -->
-<div style="position: relative; width: 100%; height: 300px;">
-  <img src="https://github.com/LyubomiraDimitrova-dev/just-cherry-stuff/blob/main/More_Cherries.jpg?raw=true" 
-       style="position: absolute; width: 100%; height: 100%; object-fit: cover; opacity: 0.3; z-index: -1;">
-  <h1 align="center" style="position: relative; color: #b33b7d; font-size: 42px; font-family: 'Georgia', serif; text-shadow: 2px 2px 6px #ffffff;">
-    🌸 Welcome to My GitHub Profile! 🌸
-  </h1>
-</div>
+<!-- 🌸 Welcome Text -->
+<h1 align="center" style="color: #b33b7d; font-size: 42px; font-family: 'Georgia', serif; text-shadow: 2px 2px 6px #ffffff;">
+  🌸 Welcome to My GitHub Profile! 🌸
+</h1>
+
 
 <!-- 📝 Typing Animation (Skills) -->
 <p align="center">
