@@ -1,6 +1,6 @@
 <!-- 🌸 Cherry Blossom Animated Background -->
 <div style="position: relative; width: 100%; height: 300px;">
-  <img src="https://github.com/LyubomiraDimitrova-dev/just-cherry-stuff/blob/main/cherry-blossom-winter-snow.gif?raw=true" 
+  <img src="https://github.com/LyubomiraDimitrova-dev/just-cherry-stuff/blob/main/More_Cherries.jpeg?raw=true" 
        style="position: absolute; width: 100%; height: 100%; object-fit: cover; opacity: 0.3; z-index: -1;">
   <h1 align="center" style="position: relative; color: #b33b7d; font-size: 42px; font-family: 'Georgia', serif; text-shadow: 2px 2px 6px #ffffff;">
     🌸 Welcome to My GitHub Profile! 🌸
