@@ -7,12 +7,6 @@
   </h1>
 </div>
 
-<!-- 🎮 Game Dev Bio -->
-<h3 align="center" style="color: #ff66b2; font-family: 'Georgia', serif;">
-🎮 Game Developer | Level Designer | World Builder
-</h3>
-
-
 <!-- 📝 Typing Animation (Skills) -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=ff66b2&center=true&vCenter=true&multiline=true&width=750&height=70&lines=🎮+Game+Developer+|+Level+Designer+|+World+Builder;💻+Unity+|+Unreal+|+Blender+|+Python+|+C%23">
@@ -25,6 +19,16 @@
 🔹 Always learning and exploring <b>game AI, optimization, and user experience</b>
 </p>
 
+---
+
+## **🕹️ Featured Projects**
+🎮 **[PyAdventures](https://github.com/NoxianDemoness/Lyubomira-Portfolio/releases/latest)**  
+An educational RPG that teaches **Python programming** through an engaging fantasy storyline.  
+
+🌲 **[The Curse of the Magic Forest](https://github.com/LyubomiraDimitrova-dev/Lyubomira-Portfolio/releases/latest)**  
+A **mystical adventure game** where players navigate a cursed forest, solving puzzles and uncovering secrets.  
+
+---
 
 <!-- 🔗 Connect With Me -->
 <h3 align="center">🔗 Connect with Me</h3>
@@ -40,4 +44,3 @@
     <img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail" alt="Email">
   </a>
 </p>
-
