@@ -8,14 +8,14 @@
 </div>
 
 <!-- 🎮 Game Dev Bio -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=ff66b2&center=true&vCenter=true&multiline=true&width=750&height=70&lines=🎮+Game+Developer+|+Level+Designer+|+World+Builder;💻+Unity+|+Unreal+|+Blender+|+Python+|+C%23">
-</p>
+<h3 align="center" style="color: #ff66b2; font-family: 'Georgia', serif;">
+🎮 Game Developer | Level Designer | World Builder
+</h3>
 
 
 <!-- 📝 Typing Animation (Skills) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=ff66b2&center=true&vCenter=true&multiline=true&width=500&height=50&lines=🎮+Game+Developer+|+Level+Designer+|+World+Builder;💻+Unity+|+Unreal+|+Blender+|+Python">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=ff66b2&center=true&vCenter=true&multiline=true&width=750&height=70&lines=🎮+Game+Developer+|+Level+Designer+|+World+Builder;💻+Unity+|+Unreal+|+Blender+|+Python+|+C%23">
 </p>
 
 <!-- 📌 Skills Section -->
