@@ -14,7 +14,6 @@
   🌸 Welcome to My GitHub Profile! 🌸
 </h1>
 
-
 <!-- 📝 Typing Animation (Skills) -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=ff66b2&center=true&vCenter=true&multiline=true&width=750&height=70&lines=🎮+Game+Developer+|+Level+Designer+|+World+Builder;💻+Unity+|+Unreal+|+Blender+|+Python+|+C%23">
@@ -30,10 +29,10 @@
 ---
 
 ## **🕹️ Featured Projects**
-🎮 **[PyAdventures](https://github.com/LyubomiraDimitrova-dev/Lyubomira-Portfolio/tree/main/PyAdventure)**  
+🎮 **[PyAdventures](https://github.com/LyubomiraDimitrova-dev/Lyubomira-Portfolio)**  
 An educational RPG that teaches **Python programming** through an engaging fantasy storyline.  
 
-🌲 **[The Curse of the Magic Forest](https://github.com/LyubomiraDimitrova-dev/Lyubomira-Portfolio/tree/main/The-Curse-of-the-Magic-Forest)**  
+🌲 **[The Curse of the Magic Forest](https://github.com/LyubomiraDimitrova-dev/Lyubomira-Portfolio)**  
 A **mystical adventure game** where players navigate a cursed forest, solving puzzles and uncovering secrets.  
 
 <p align="center" style="color: #b33b7d; font-size: 18px; font-weight: bold;">
