@@ -28,6 +28,11 @@ An educational RPG that teaches **Python programming** through an engaging fanta
 🌲 **[The Curse of the Magic Forest](https://github.com/LyubomiraDimitrova-dev/Lyubomira-Portfolio)**  
 A **mystical adventure game** where players navigate a cursed forest, solving puzzles and uncovering secrets.  
 
+<p align="center" style="color: #b33b7d; font-size: 18px; font-weight: bold;">
+  🚧 More projects in development! Stay tuned for upcoming releases. 🚀<br>
+  👉 Check out my <a href="https://github.com/LyubomiraDimitrova-dev/Lyubomira-Portfolio" style="color:#ff66b2; font-weight:bold;">GitHub Portfolio</a> for more!
+</p>
+
 ---
 
 <!-- 🔗 Connect With Me -->
